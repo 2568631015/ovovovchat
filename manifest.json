@@ -1,0 +1,21 @@
+{
+  "name": "WeChat",
+  "short_name": "WeChat",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#dcdcdc",
+  "theme_color": "#f7f7f7",
+  "description": "ovochat AI 聊天应用",
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/fbX2ttbr/IMG-1539-192x192.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "https://i.postimg.cc/QNS6TrXD/IMG-1539-512x512.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
